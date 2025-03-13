@@ -6,7 +6,7 @@ O objetivo do projeto é demonstrar o uso da FIPE API para consultar informaçõ
 
 ## 🚀 Tecnologias utilizadas
 - **Java 11+** (ou a linguagem utilizada)
-- **Spring Boot** (com **Spring Web** para consumo de API)  
+- **Spring Boot** 
 - **FIPE API** (para consultar informações sobre veículos)
 - **java.net.http** (para consumir a API)
 
