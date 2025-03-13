@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pedro.seachfipe</groupId>
-	<artifactId>SeachFipe</artifactId>
+	<artifactId>SearchFipe</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SeachFipe</name>
 	<description>Demo project for Spring Boot</description>
